@@ -41,7 +41,7 @@ $kokonimi = trim($kokonimi);
 	nimi($kokonimi);
 ?>
 <br>
-<button>Piilota</button>
+<button>Piilota / Näytä</button>
 
 </body>
 </html>
